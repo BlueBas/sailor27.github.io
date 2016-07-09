@@ -25,10 +25,10 @@
     nav ul {
         padding: 50;
         float: left;
-        border-bottom: ;
+        border-bottom: 2px;
         list-style-type: none;
     }
-    nav li {
+    nav li {float: left;
           text-align:center;
 
     }
